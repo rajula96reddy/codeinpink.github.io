@@ -846,7 +846,7 @@ h2 i[class^="icon-"], h2 i[class*=" icon-"], h2 i.fa {
 		position: absolute; top: 45%; margin-top: -24px; left: -106px; width: 68px; line-height: 58px; text-align: center; background: #5BCF80; display: block; z-index: 120; color: #fff; border-radius: 50%; border: 5px solid #FFF; font-family: Oswald; font-weight: 400;
 		}
 	.event.current .date {
-position: absolute; top: 45%; margin-top: -24px; left: -106px; width: 68px; line-height: 58px; text-align: center; background: #022D41; display: block; z-index: 120; color: #fff; border-radius: 50%; border: 5px solid #FFF; font-family: Oswald; font-weight: 400;
+		border-color: #345; outline: 5px solid #FFF; background-color: #345;
 		}
 	.timeline + .timeline .event:last-child p:before {
 		height: 76%
